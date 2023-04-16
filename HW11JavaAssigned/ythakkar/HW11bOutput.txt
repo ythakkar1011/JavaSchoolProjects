@@ -1,0 +1,20 @@
+Students with a GPA > 3.5:
+Student: 30791, GPA: 3.5129058
+Student: 8204, GPA: 3.738054
+Student: 43861, GPA: 3.8205237
+Student: 99353, GPA: 3.9426963
+Student: 15459, GPA: 3.836837
+Student: 92216, GPA: 3.7284064
+Students with a GPA > 3:
+Student: 30791, GPA: 3.5129058
+Student: 8204, GPA: 3.738054
+Student: 43861, GPA: 3.8205237
+Student: 99353, GPA: 3.9426963
+Student: 69343, GPA: 3.310403
+Student: 36194, GPA: 3.0271814
+Student: 15459, GPA: 3.836837
+Student: 19557, GPA: 3.027371
+Student: 84784, GPA: 3.1101344
+Student: 41269, GPA: 3.1541753
+Student: 92216, GPA: 3.7284064
+Student: 77562, GPA: 3.267939

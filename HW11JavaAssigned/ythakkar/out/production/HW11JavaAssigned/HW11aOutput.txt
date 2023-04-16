@@ -1,0 +1,16 @@
+Students with a GPA > 3.5:
+Student: 11148, GPA: 3.7879338
+Student: 38669, GPA: 3.9264417
+Student: 92367, GPA: 3.6957743
+Student: 92570, GPA: 3.7324243
+Student: 75636, GPA: 3.6886423
+Student: 56757, GPA: 3.6152802
+Students with a GPA > 3:
+Student: 11148, GPA: 3.7879338
+Student: 38669, GPA: 3.9264417
+Student: 92367, GPA: 3.6957743
+Student: 92570, GPA: 3.7324243
+Student: 89573, GPA: 3.3583395
+Student: 58484, GPA: 3.1550262
+Student: 75636, GPA: 3.6886423
+Student: 56757, GPA: 3.6152802
